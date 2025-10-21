@@ -1,5 +1,5 @@
 # Kobo-Arabic-Language-Support
-Here's a simple way to fix the issue with Kobo devices displaying Arabic language as boxes in titles, books .. etc.
+Here's a simple way to fix the issue with Kobo devices displaying Arabic characters as boxes in titles, books .. etc.
 
 How does it work?
 1. Plug your Kobo eReader to your PC.
